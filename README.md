@@ -1,12 +1,15 @@
-<h1 align="center">Hi there, I'm Matheus Santos 👋</h1>
+<h1>Hi there, I'm Matheus Santos 👋</h1>
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-007bff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-sgf/)](https://www.linkedin.com/in/matheus-sgf/)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-007bff?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5533984630279&text=Ol%C3%A1%2C%20gostei%20do%20seu%20curr%C3%ADculo%2C%20gostaria%20de%20saber%20mais%20sobre%20voc%C3%AA...)](https://api.whatsapp.com/send?phone=5533984630279&text=Ol%C3%A1%2C%20gostei%20do%20seu%20curr%C3%ADculo%2C%20gostaria%20de%20saber%20mais%20sobre%20voc%C3%AA...)
+[![Gmail Badge](https://img.shields.io/badge/-contato@Matheussantos.com-007bff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuscontato96@hotmail.com)](mailto:matheuscontato96@hotmail.com)
 
 <p align="center">
   <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="60%" />
 </p>
 
 ---
-
-### 👨‍💻 About Me
 
 - 🧠 Passionate about technology and innovation  
 - 💼 Software Engineer @ Geniusis  
@@ -23,9 +26,7 @@
 
 ### 📫 Let's connect!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-007bff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-sgf/)](https://www.linkedin.com/in/matheus-sgf/)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-007bff?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5533984630279&text=Ol%C3%A1%2C%20gostei%20do%20seu%20curr%C3%ADculo%2C%20gostaria%20de%20saber%20mais%20sobre%20voc%C3%AA...)](https://api.whatsapp.com/send?phone=5533984630279&text=Ol%C3%A1%2C%20gostei%20do%20seu%20curr%C3%ADculo%2C%20gostaria%20de%20saber%20mais%20sobre%20voc%C3%AA...)
-[![Gmail Badge](https://img.shields.io/badge/-contato@Matheussantos.com-007bff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuscontato96@hotmail.com)](mailto:matheuscontato96@hotmail.com)
+
 
 ---
 
