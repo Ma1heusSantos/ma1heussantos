@@ -7,7 +7,7 @@ My name is Matheus Santos
 (PHP | Laravel | Javascript | Typescript | React Native | MySql | HTML | CSS ) 🚀<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007bff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-sgf/)](https://www.linkedin.com/in/matheus-sgf/)
-
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-007bff?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5577988781811&text=ol%C3%A1%2Cgostei%20do%20seu%20curriculo%2C%20gostaria%20de%20saber%20mais%20sobre%20voc%C3%AA...)](https://api.whatsapp.com/send?phone=5577988781811&text=ol%C3%A1%2Cgostei%20do%20seu%20curriculo%2C%20gostaria%20de%20saber%20mais%20sobre%20voc%C3%AA...)
 [![Gmail Badge](https://img.shields.io/badge/-contato@Matheussantos.com-007bff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuscontato96@hotmail.com)](mailto:matheuscontato96@hotmail.com)
 
 
