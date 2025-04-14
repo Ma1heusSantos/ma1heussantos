@@ -8,7 +8,7 @@ My name is Matheus Santos
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-sgf/)](https://www.linkedin.com/in/matheus-sgf/)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:matheuscontato96@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contato@Matheussantos.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuscontato96@hotmail.com)](mailto:matheuscontato96@hotmail.com)
 
    <a href = "mailto:matheuscontato96@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "mailto:matheuscontato96@hotmail.com"><img src=" https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
