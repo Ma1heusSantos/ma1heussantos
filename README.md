@@ -23,11 +23,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma1heusSantos&layout=compact&hide_border=true&title_color=007bff&text_color=ffffff&bg_color=0d1117" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ma1heusSantos&show_icons=true&hide_border=true&title_color=007bff&icon_color=007bff&text_color=ffffff&bg_color=0d1117" />
 </div>
-
----
 
 
