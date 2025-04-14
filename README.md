@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-contato@Matheussantos.com-007bff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuscontato96@hotmail.com)](mailto:matheuscontato96@hotmail.com)
 
 - 🧠 Passionate about technology and innovation  
-- 💼 Software Engineer @ Geniusis  
+- 💼 Software Engineer Geniusis  
 - 🎓 Technologist in Systems Analysis and Development – IFNMG – Brazil  
 - 🌐 Focused on Web and Mobile Development  
 - 🚀 Always ready for a new challenge  
